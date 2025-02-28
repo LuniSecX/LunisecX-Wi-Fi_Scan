@@ -24,23 +24,23 @@ sudo apt update
 sudo apt install aircrack-ng
 
 --------------------------------------------
-
+```bash
 Python Bağımlılıklarını Yükleyin:
 pip install scapy
 -------------------------------------
-
+```bash
 Programı Çalıştırın:
 python3 wifi_scanner.py
 python3 deauth_attack.py
 ---------------------------------------------
-
+```bash
 Kullanım
 Wi-Fi Tarama
 Wi-Fi ağlarını taramak için wifi_scanner.py dosyasını çalıştırabilirsiniz:
 
 python3 wifi_scanner.py
 ----------------------------------------------
-
+```bash
 Deauth Attack
 deauth_attack.py dosyası, belirli bir cihazı veya tüm cihazları ağdan atmak için kullanılır.
 
