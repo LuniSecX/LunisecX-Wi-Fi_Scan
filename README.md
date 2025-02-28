@@ -19,7 +19,7 @@ Bu Python projesi, Wi-Fi ağlarını taramak ve ağdan cihazları atmak için ku
 
 ### Gereksinimleri Yükleyin:
 
-``bash
+```bash
 sudo apt update
 sudo apt install aircrack-ng
 
