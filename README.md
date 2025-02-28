@@ -24,38 +24,38 @@ sudo apt update
 sudo apt install aircrack-ng
 
 --------------------------------------------
-```bash
-Python Bağımlılıklarını Yükleyin:
+
+- **Python Bağımlılıklarını Yükleyin:
 pip install scapy
 -------------------------------------
-```bash
-Programı Çalıştırın:
+
+- **Programı Çalıştırın:
 python3 wifi_scanner.py
 python3 deauth_attack.py
 ---------------------------------------------
-```bash
-Kullanım
-Wi-Fi Tarama
-Wi-Fi ağlarını taramak için wifi_scanner.py dosyasını çalıştırabilirsiniz:
+
+- **Kullanım
+- **Wi-Fi Tarama
+- **Wi-Fi ağlarını taramak için wifi_scanner.py dosyasını çalıştırabilirsiniz:
 
 python3 wifi_scanner.py
 ----------------------------------------------
-```bash
-Deauth Attack
-deauth_attack.py dosyası, belirli bir cihazı veya tüm cihazları ağdan atmak için kullanılır.
 
-⚠️ Dikkat: Bazı Wi-Fi adaptörlerinde bu saldırı çalışmayabilir.
+- **Deauth Attack
+- **deauth_attack.py dosyası, belirli bir cihazı veya tüm cihazları ağdan atmak için kullanılır.
+
+- **⚠️ Dikkat: Bazı Wi-Fi adaptörlerinde bu saldırı çalışmayabilir.
 
 python3 deauth_attack.py
 -------------------------------------------
 
-Dikkat Edilmesi Gerekenler
+- **Dikkat Edilmesi Gerekenler
 
-Wi-Fi Adaptörü: Deauth saldırısı bazı Wi-Fi adaptörlerinde çalışmayabilir. Monitor modunu destekleyen bir adaptör kullanmanız gerekmektedir.
+- **Wi-Fi Adaptörü: Deauth saldırısı bazı Wi-Fi adaptörlerinde çalışmayabilir. Monitor modunu destekleyen bir adaptör kullanmanız gerekmektedir.
 Sudo Yetkileri: Programın bazı bölümleri sudo yetkisi gerektirir. Lütfen çalıştırmadan önce gerekli izinlere sahip olduğunuzdan emin olun.
 
 
-Bu proje MIT Lisansı ile lisanslanmıştır.
+- **Bu proje MIT Lisansı ile lisanslanmıştır.
 
-Sorumluluk
+- **Sorumluluk
 Bu araç yalnızca yasal ve etik testler için kullanılmalıdır. Kullanıcı, yazılımı sadece kendisinin yetkilendirilmiş olduğu ağlarda ve cihazlarda kullanmakla sorumludur. İzinsiz ağlara veya cihazlara saldırmak, yasalarla cezalandırılabilir bir suçtur. Bu yazılımın kötüye kullanımından kaynaklanan tüm sorumluluk kullanıcıya aittir. 🚫
