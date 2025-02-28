@@ -33,7 +33,7 @@ pip install scapy
 python3 wifi_scanner.py
 python3 deauth_attack.py
 ---------------------------------------------
-- **Wi-Fi adaptörü** (Monitor modunu destekleyen)
+
 - **Kullanım**
 - **Wi-Fi Tarama**
 - **Wi-Fi ağlarını taramak için wifi_scanner.py dosyasını çalıştırabilirsiniz:**
