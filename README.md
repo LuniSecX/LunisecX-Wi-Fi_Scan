@@ -4,7 +4,7 @@ Bu Python projesi, Wi-Fi ağlarını taramak ve ağdan cihazları atmak için ku
 
 ## Özellikler
 
-- **Wi-Fi Tarama**: Tüm Wi-Fi ağlarını tarayabilirsiniz.
+- **Wi-Fi Tarama: Tüm Wi-Fi ağlarını tarayabilirsiniz.
 - **Monitor Moduna Geçiş**: Wi-Fi adaptörünüzü monitör moduna alabilirsiniz.
 - **Deauth Attack**: Belirli bir cihazı veya tüm cihazları ağdan atmak için deauth saldırısı yapabilirsiniz.
 
